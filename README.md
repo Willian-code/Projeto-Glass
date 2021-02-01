@@ -1,2 +1,2 @@
-# Projeto Glass
+# Projeto Google Glass
  Curso em Vídeo
